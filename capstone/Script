@@ -1,0 +1,31 @@
+introduction:
+Moe "Hi I'm Moe, i was the Navigator"
+Chris "And i'm chris, i was the driver"
+
+Design(Chris): created DollarAmount, Inventory, Product, and Main classes while
+adding onto the VendingMachineCLI and Menu classes (show new classes, and additions
+to original classes) hand over to Moe to demo the program and tests
+
+
+
+Demo(Moe): Run program from Main, display inventory, enter purchase menu,
+feed money, select product, finish transaction, enter secret menu option (0)
+
+show transactionlog.txt, and salesreportlog.csv
+
+
+Chris:
+if asked to run tests, remove System. from line 68 in Menu.java class show
+failed tests visibly pass, failed due to windows formatting
+
+
+Closing Comments:
+Originally we attempted to write this project completely from scratch
+but about mid way through things spiraled out of control with too many classes and
+having difficulty with calling methods from other classes, so we went back to the
+original code which taught us sometimes staring from scratch first isnt always the best idea
+
+questions comments concerns?
+
+
+
